@@ -1,0 +1,11 @@
+# Simulation data and derived caches (not public)
+data/
+cache/
+*.hdf5
+*.npz
+
+# Outputs and Python/Jupyter clutter
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
